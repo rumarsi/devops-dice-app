@@ -15,5 +15,5 @@ def lanzar_dados(amount, sides):
 resultados = lanzar_dados(amount=5, sides=6)
 
 for i, resultado in enumerate(resultados, start=1):
-    print(f"Lanzamiento {i} número obtenido {resultado}")
+    print(f"[INFO] Lanzamiento {i}: número obtenido {resultado}")
     time.sleep(5)
