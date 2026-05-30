@@ -7,3 +7,6 @@ La aplicacion implementa una funcion que recibe:
 - `sides`: numero de caras del dado
 
 La ejecucion principal realiza 5 lanzamientos de un dado de 6 caras y muestra cada resultado con una pausa de 5 segundos.
+=======
+# devops-dice-app
+Simulador de lanzamiento de dados
