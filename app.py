@@ -12,7 +12,7 @@ def lanzar_dados(amount, sides):
     return resultados
 
 
-resultados = lanzar_dados(amount=5, sides=6)
+resultados = lanzar_dados(amount=5, sides=20)
 
 for i, resultado in enumerate(resultados, start=1):
     print(f"Lanzamiento {i} número obtenido {resultado}")
